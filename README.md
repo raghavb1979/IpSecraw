@@ -1,4 +1,4 @@
-# IpSecraw
+# IpSec Using rawsocket programming
 
 minimal educational IPsec ESP-like implementation using Linux raw sockets in C.
 
